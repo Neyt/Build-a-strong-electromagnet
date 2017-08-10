@@ -3,7 +3,7 @@ build a strong electromagnet out of microwave parts
 
 NOTE: DANGER! DO NOT TRY THIS IF YOU DONT KNOW ABOUT ELECTRICITY OR YOU ARE WITH A PROFFESIONAL. PEOPLE HAVE DIED DOING THIS.
 
-* Click in the image to access the video.
+* Click in the image to access the video:
 
 [![build a strong electromagnet out of microwave parts](https://i.ytimg.com/vi/SBTdade_F-o/2.jpg?time=1502308901618)](https://youtu.be/SBTdade_F-o)
 
