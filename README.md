@@ -22,7 +22,7 @@ One of them is the transformer. whithc is compose of two parts. A primary coil, 
 Here is the basics of how Transformers work
 https://youtu.be/Cx4_7lIjoBA?t=2
 
-If you take the secondary Coil away, and keep the metal casing, it will produce and extraordinary electromagnet run with batteries. 
+If you take the secondary Coil away, and keep the steel core (this directs the electromagenetic force), it will produce and extraordinary electromagnet run with batteries. 
 Note if you raise the power it doesnt necesarilly increase the electromagnetic reach or force. It hits an invisible roof.
 
 
